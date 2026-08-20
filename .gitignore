@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+env/
+.streamlit/
+outputs/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.json
+!tests/fixtures/*.json
